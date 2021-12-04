@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @rubenassink
 - 👀  I’m interested in Software Engineering
-- 🌱  I’m currently learning Vue3
+- 🌱  I’m currently learning Vue3 & Python
 - 💞️  I’m looking to collaborate on cool projects
 - 📫  How to reach me : rubenassink@gmail.com
 
